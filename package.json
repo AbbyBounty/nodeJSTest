@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AbbyBounty/nodeJSTest/issues"
   },
-  "homepage": "https://github.com/AbbyBounty/nodeJSTest#readme"
+  "homepage": "https://github.com/AbbyBounty/nodeJSTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
