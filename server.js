@@ -25,7 +25,7 @@ const app=express()
 // app.use(express.static('images/'))
 
 app.get('/',(req,res)=>{
-    res.send('<iframe src=" https://abbybounty.github.io/HBD/" title="" style="width:100%;height:700px; border:0px;"></iframe>')
+    res.send('<iframe src=" https://abbybounty.github.io/HBD/" title="" style="width:100%;height:700px; border:0px; margin:0px;"></iframe>')
 })
 
  
